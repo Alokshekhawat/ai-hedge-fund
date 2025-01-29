@@ -89,3 +89,4 @@ _cache = Cache()
 def get_cache() -> Cache:
     """Get the global cache instance."""
     return _cache
+#
